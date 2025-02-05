@@ -23,7 +23,8 @@ footer {
 }
 
 #focaccia img {
-    height: 500px;
+    width: 100%;
+    height: 330px;
     border-radius: 10px 10px 10px 10px;
 
 }

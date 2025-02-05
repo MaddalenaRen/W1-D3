@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+}
+
+main,
+footer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.sottotitolo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    background-color: #ffeb3b36;
+    color: rgb(10, 165, 126);
+    border-top: 3px solid #ffeb3b36;
+
+}
+
+#focaccia img {
+    height: 500px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+figcaption {
+
+    color: #555;
+    text-align: center;
+
+}
+
+h3 {
+    font-size: large;
+    border-bottom: 1px solid #9E9E9E;
+}
